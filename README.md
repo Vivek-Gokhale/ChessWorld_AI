@@ -110,14 +110,7 @@ src/
 └── scripts/              # Python backend (optional)
 \`\`\`
 
-## Performance Optimizations
 
-- **Lazy Loading**: Components load on demand
-- **Skeleton Loading**: Immediate visual feedback during data fetching
-- **Memoization**: Expensive calculations cached with useMemo
-- **Efficient Filtering**: Client-side filtering and sorting for better UX
-
-## Accessibility Features
 
 - Semantic HTML structure
 - ARIA labels and roles
