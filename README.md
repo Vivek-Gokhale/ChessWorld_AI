@@ -34,16 +34,11 @@ A comprehensive chess analysis web application built with React and Next.js, fea
 
 ### Installation
 
-1. Clone the repository or download from v0:
+1. Clone the repository:
 \`\`\`bash
 # If cloned from GitHub
 git clone <repository-url>
 cd chess-insights-app
-
-# If downloaded from v0
-unzip chess-insights-app.zip
-cd chess-insights-app
-\`\`\`
 
 2. Install dependencies:
 \`\`\`bash
@@ -130,27 +125,3 @@ src/
 - Screen reader compatibility
 - High contrast color scheme
 
-## Assignment Requirements Met
-
-This project fulfills all requirements from the ChessWorld.ai Front-End Internship Assignment:
-
-✅ **Player Search & Summary** - Username search with wins/losses/draws, color win rates, most-played opening
-✅ **Games Table** - Last 50 games with sorting, filtering, and search functionality  
-✅ **Game Detail Page** - Opening analysis with deviation detection
-✅ **Responsive Design** - Mobile-first with loading skeletons and error states
-✅ **React Architecture** - Pure JavaScript with Next.js routing
-✅ **Lichess API Integration** - Real data from public endpoints
-✅ **Testing** - Vitest setup with utility function tests
-✅ **Extra Credit** - Complete Stockfish backend with mistake/blunder detection
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
